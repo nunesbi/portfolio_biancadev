@@ -85,7 +85,7 @@ npm run build
 ## 👩🏻‍💻 Maintainer
 
 **Bianca Nunes**
-Full Stack Developer
+Junior Full Stack Developer
 
 GitHub: https://github.com/nunesbi
 LinkedIn: https://linkedin.com/in/bianca-20-nunes
